@@ -16,7 +16,7 @@ It doesn't support BSD systems, and RHEL/SuSE Linux. If you look for version tha
 |                      |                                          |
 |:---------------------|:-----------------------------------------|
 | **Author:**          | Tomasz Klim (<opensource@tomaszklim.pl>) |
-| **Copyright:**       | Copyright 2008-2020 Tomasz Klim          |
+| **Copyright:**       | Copyright 2008-2022 Tomasz Klim          |
 | **License:**         | MIT                                      |
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
